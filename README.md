@@ -1,4 +1,4 @@
 # fariyaddemo
-i am learning how to use github
+This is my first repository
 <br>
 Author-Md Fariyad
